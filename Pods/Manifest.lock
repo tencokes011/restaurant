@@ -1,0 +1,26 @@
+PODS:
+  - Realm (3.4.0):
+    - Realm/Headers (= 3.4.0)
+  - Realm/Headers (3.4.0)
+  - RealmSwift (3.4.0):
+    - Realm (= 3.4.0)
+  - Swift-Icons (1.0.0)
+
+DEPENDENCIES:
+  - RealmSwift (~> 3.4.0)
+  - Swift-Icons (~> 1.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Realm
+    - RealmSwift
+    - Swift-Icons
+
+SPEC CHECKSUMS:
+  Realm: 9527c7baa2260f3a3aad6823d2d71cafff9b046b
+  RealmSwift: f40a747beaea1cadde7dcef41ee5a34b3001677b
+  Swift-Icons: 2ddb13ddb431db76bc483b77d023e32ffca22b81
+
+PODFILE CHECKSUM: 2bd898c5854061b4b40d26d01881d0c8cad09ca8
+
+COCOAPODS: 1.5.3

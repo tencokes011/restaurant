@@ -1,0 +1,6 @@
+framework module Swift_Icons {
+  umbrella header "Swift-Icons-umbrella.h"
+
+  export *
+  module * { export * }
+}
